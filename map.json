@@ -73,7 +73,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/_UMysi6m3AI"
+                 "value":"https:\/\/youtube.com\/embed\/JxvKWo4d-Tg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -183,7 +183,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"<iframe src=\u201chttps:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScuUDu1Ctp89G5WHoN7mQxympnr-glJYntU9sVAS2ka74ZPXQ\/viewform?embedded=true\u201d width=\u201c640\" height=\u201c436\u201d frameborder=\u201c0\" marginheight=\u201c0\u201d marginwidth=\u201c0\">Chargement\u2026<\/iframe>"
+                 "value":"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScuUDu1Ctp89G5WHoN7mQxympnr-glJYntU9sVAS2ka74ZPXQ\/viewform?usp=sf_link"
                 }],
          "type":"tilelayer",
          "visible":true,
